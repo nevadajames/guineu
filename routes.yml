@@ -1,0 +1,4 @@
+"/" : "welcome#index"
+
+# define additional routes here
+#"/something": "something#index"
